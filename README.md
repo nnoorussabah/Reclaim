@@ -1,169 +1,233 @@
 # RECLAIM
+
 ### Put it down. Pick life up.
 
-**An award-winning entrepreneurship concept exploring how physical design and technology can encourage more meaningful time away from our screens.**
-
-![RECLAIM Product Design](reclaim-product-design.jpeg)
-
-**RECLAIM** was developed as a team project during the **KTUR Entrepreneurship Summer School 2026**, where it received the **Best Project Award**.
-
-The idea started with a simple observation: even when we're spending time with friends or family, our phones are rarely out of reach.
-
-We wanted to explore a solution that goes beyond screen-time reminders and creates a shared reason to disconnect.
-
----
-
-## The Concept
-
-RECLAIM combines a physical smartphone docking box with a companion digital experience.
-
-Instead of relying entirely on willpower or app notifications, users physically put their phones away before beginning a screen-free session.
-
-The experience is designed around three ideas:
-
-**Physical commitment** — Placing a phone inside a dedicated box creates an intentional separation from the device.
-
-**Shared accountability** — Individual RECLAIM boxes can be stacked together during group sessions, making the commitment visible and collective.
-
-**Positive reinforcement** — Screen-free sessions earn points, while suggested activities and potential rewards encourage users to make the most of their offline time.
-
-The goal isn't to eliminate technology. It's to help people be more intentional about when they use it.
-
-## How RECLAIM Works
-
-### 01. Dock your phone
-
-Each person places their smartphone inside an individual RECLAIM box.
-
-The proposed hardware uses a minimal matte-black design, a closing lid, and a small status indicator to communicate that the phone has been docked.
-
-### 02. Connect through stacking
-
-For group sessions, participants physically stack their individual boxes together.
-
-This transforms a personal decision into a shared commitment. The physical interaction is a central part of the concept, rather than simply another feature inside an app.
-
-RECLAIM is also designed to work independently for solo sessions.
-
-### 03. Start a screen-free session
-
-The companion app provides a digital experience for starting sessions, tracking progress, and demonstrating how users could earn points for spending time away from their phones.
-
-The concept includes additional incentives for group participation, encouraging friends and families to disconnect together.
-
-### 04. Make the time count
-
-Putting down a phone is only half the challenge. The next question is: *What do we do instead?*
-
-RECLAIM includes activity suggestions for different settings and group sizes, from board games and painting to outdoor activities and shared experiences.
-
-### 05. Earn rewards
-
-The proposed rewards system connects consistent screen-free habits with opportunities to discover local activities and businesses.
-
-Potential rewards include discounts or experiences offered through future partnerships with participating businesses.
-
-These partnerships are part of the proposed business model, not existing commercial arrangements.
-
----
-
-## Explore the Interactive Prototype
-
-**RECLAIM V5** is a clickable, browser-based prototype developed to demonstrate the digital side of the concept.
-
-The prototype includes:
-
-- **Solo and group sessions:** An interactive demonstration of the proposed session and points experience.
-- **Activity discovery:** Suggestions for meaningful screen-free activities, including filters and activity details.
-- **Rewards:** A conceptual system for redeeming points toward local experiences.
-- **Product experience:** A visual demonstration of how the physical device and digital features fit together.
-
-The prototype was created as a design and exploration tool, not as a production-ready application connected to manufactured hardware.
-
-**[Launch the RECLAIM Interactive Prototype](https://nnoorussabah.github.io/Reclaim/)**
-
-
----
-
-## The Product Design
-
-![RECLAIM Hardware Concept](reclaim-product-design.jpeg)
-
-The proposed physical product was designed to be compact, minimal, and easy to incorporate into everyday life.
-
-The key design decision is its **stackable form**: while each box supports individual use, stacking multiple units physically represents a collective decision to be present.
-
-The product illustrations communicate the intended hardware experience. Dimensions, materials, electronics, battery performance, and other specifications remain design proposals rather than validated manufacturing specifications.
-
----
-
-## Watch the Concept Commercial
-
-A short AI-assisted commercial was created to communicate the RECLAIM experience visually.
-
-The film follows friends putting their phones away, participating in a shared docking ritual, and returning their attention to each other.
-
-It serves as a visualization of the intended experience, rather than footage of a manufactured or commercially available product.
-
-**The commercial video is available in the [`video`](./video) folder.**
-
----
-
-## Our Approach
-
-RECLAIM was developed through an entrepreneurship-focused process combining problem identification, product ideation, user experience thinking, business model exploration, and pitching.
-
-The project brought together several connected elements:
-
-| Area | What we explored |
-|---|---|
-| Problem | Digital distraction during social and personal time |
-| Physical product | Individual smartphone boxes with a stackable group design |
-| Behavioral concept | Commitment, shared accountability, and positive reinforcement |
-| Digital experience | Sessions, progress tracking, activities, and rewards |
-| Business model | Potential local-business partnerships and reward-based engagement |
-| Communication | Product visualization, prototype development, and concept storytelling |
-
-A key challenge was finding a way for the physical product and digital platform to reinforce each other without simply creating another distracting application.
-
----
-
-## From Idea to Interactive Experience
-
-The initial concept was developed during the summer school as a team entrepreneurship project.
-
-Following the program, the idea was further explored through an interactive website prototype and an AI-assisted concept commercial.
-
-The prototype was built through an iterative, AI-assisted development workflow, with attention to the user journey, interface design, session mechanics, and visual consistency.
-
-The commercial was developed through AI video generation and iterative prompting to explore how the physical product and group experience could be communicated in a short visual narrative.
-
-These extensions were intended to make the original concept easier to experience, demonstrate, and discuss.
-
----
-
-## Project Recognition
+**A physical and digital product concept designed to make screen-free time a shared experience.**
 
 **Best Project Award — KTUR Entrepreneurship Summer School, 2026**
 
-RECLAIM received the program's Best Project Award for the team's entrepreneurship project.
+![RECLAIM Product Design](reclaim-product-design.jpeg)
 
-The experience brought together product thinking, collaboration, market exploration, and pitching into a single concept.
+[**Explore the Interactive Prototype ↗**](https://nnoorussabah.github.io/Reclaim/) · [**Watch the Concept Commercial ↗**](./video/) · [**View the Presentation ↗**](./docs/)
+
+---
+
+## Why RECLAIM?
+
+Think about the last time you sat around a table with friends or family. How many times did someone pick up their phone without even thinking about it?
+
+That observation became the starting point for RECLAIM, a team project developed during an entrepreneurship summer school.
+
+We wanted to explore a question:
+
+**What if putting your phone away became something you did together, rather than another habit you had to manage alone?**
+
+Screen-time reminders can tell people to stop scrolling. But they don't necessarily make putting the phone away more appealing, or help people decide what to do instead.
+
+Our idea was to combine a physical action, shared accountability, and positive incentives into one experience.
+
+## Meet RECLAIM
+
+RECLAIM is a proposed system consisting of two connected parts:
+
+**The physical product:** A compact box that holds a smartphone, creating an intentional separation between the user and their device.
+
+**The digital experience:** A companion app that supports individual and group sessions, tracks screen-free time, suggests activities, and introduces a points-based rewards system.
+
+What makes the concept different is that each person has their own box, but the boxes can be physically stacked together.
+
+The idea is simple: **individual commitment becomes a visible group commitment.**
+
+## How It Works
+
+### 01 / Put your phone away
+
+Each person places their smartphone inside their individual RECLAIM box and closes the lid.
+
+The proposed design includes a matte-black housing, rounded edges, a closing mechanism, and a small green status light.
+
+The physical action is intentional. Instead of simply switching to another app or dismissing a reminder, users create distance between themselves and their phones.
+
+### 02 / Stack together
+
+When friends or family members want to spend screen-free time together, they bring their individual boxes together and stack them flat, one on top of another.
+
+Stacking is not just a space-saving feature. It's a visual representation of shared commitment.
+
+Every box represents one person choosing to participate.
+
+RECLAIM can also be used individually, without stacking.
+
+### 03 / Start a session
+
+The companion app represents the digital side of the experience.
+
+Users can explore solo or group sessions, with longer screen-free periods earning more points. Group participation is designed to offer additional incentives.
+
+The original concept also explored shared accountability: if someone ends a group session early, the group's reward could be affected.
+
+The interactive prototype demonstrates these ideas through simulated sessions rather than a connection to functioning physical hardware.
+
+### 04 / Find something to do
+
+We also wanted to address a practical question:
+
+**Once everyone puts their phones away, what happens next?**
+
+RECLAIM includes activity suggestions for spending that time intentionally, whether that's playing a board game, painting, going outdoors, exercising, or exploring something locally.
+
+The aim is to make spending time offline feel worthwhile, rather than restrictive.
+
+### 05 / Turn progress into experiences
+
+The proposed rewards model gives users an additional reason to build consistent habits.
+
+Points earned from screen-free sessions could be exchanged for discounts or experiences offered by participating local businesses.
+
+For example, a group might use its points toward booking a football pitch or trying an activity together.
+
+The business model explored partnerships where participating businesses benefit from customer discovery and engagement.
+
+**These offers and partnerships are conceptual examples, not live commercial arrangements.**
+
+---
+
+## The Digital Prototype
+
+After the summer school, I continued exploring how RECLAIM could work as an interactive digital experience.
+
+The result is **RECLAIM V5**, a browser-based prototype demonstrating the product's proposed interface, features, and user journeys.
+
+The prototype was developed through an iterative, AI-assisted workflow, with particular attention to how the physical product and digital experience fit together.
+
+### 01 — Home: Introducing the experience
+
+![RECLAIM Home Page](reclaim-home.png)
+
+The home screen introduces RECLAIM and creates a starting point for exploring the product.
+
+It brings together the physical device concept, session setup, screen-free activity discovery, and example progress indicators.
+
+The design uses a dark interface with electric-blue accents inspired by the proposed product's visual identity.
+
+### 02 — Sessions: Making time together
+
+![RECLAIM Sessions Page](reclaim-sessions.png)
+
+The Sessions area explores how people could create or join a screen-free session.
+
+Users can interact with a demonstration of individual and group participation, including session progress and illustrative points.
+
+The intention is to make the process straightforward: put the phone away, begin a session, and focus on the activity or people around you.
+
+### 03 — Rewards: Making offline time rewarding
+
+![RECLAIM Rewards Page](reclaim-rewards.png)
+
+The Rewards area explores how time spent offline could translate into real-world experiences.
+
+It demonstrates point balances, different reward categories, and example offers from potential local partners.
+
+The featured football booking and other offers illustrate how RECLAIM might encourage users to spend more time doing things together.
+
+### Activities and other features
+
+The prototype also includes activity discovery and additional exploratory areas for community, progress, and user settings.
+
+Together, these screens communicate a broader idea: RECLAIM should help people enjoy the time they reclaim, not simply measure how long they avoid their phones.
+
+**[Explore the live RECLAIM V5 prototype →](https://nnoorussabah.github.io/Reclaim/)**
+
+*Note: This is an interactive concept prototype. Device status, session data, points, users, and rewards are simulated for demonstration purposes.*
+
+---
+
+## Physical Product Design
+
+The hardware concept was developed to make the act of putting a phone away feel simple and deliberate.
+
+The proposed box includes a compact form, opening lid, green indicator, and a stackable design that allows several users to combine their individual devices during a group session.
+
+![RECLAIM Hardware Concept](reclaim-product-design.jpeg)
+
+The physical design supports two different experiences: personal screen-free time and shared group sessions.
+
+The illustrations represent a proposed industrial design. Dimensions, electronics, charging, materials, and battery performance have not been validated through manufacturing or hardware testing.
+
+---
+
+## Bringing the Concept to Life
+
+### The concept commercial
+
+To help communicate the experience beyond presentation slides and still images, I created a short AI-assisted concept commercial.
+
+The video visualizes the journey from placing a phone inside RECLAIM to taking part in a shared session and enjoying time with others.
+
+It is a visualization of the intended product experience, rather than footage of manufactured hardware.
+
+**[Watch the RECLAIM commercial](./video/)**
+
+### The original project presentation
+
+The summer school presentation documents the original entrepreneurship idea and the team's approach to developing it.
 
 **[View the project presentation](./docs/)**
 
 ---
 
-## Project Status
+## The Entrepreneurship Project
 
-**Entrepreneurship concept and interactive demonstration.**
+RECLAIM began as a collaborative project during the **KTUR Entrepreneurship Summer School in 2026**.
 
-RECLAIM is not currently presented as a manufactured or commercially launched product.
+Our work combined problem identification, product ideation, behavioral thinking, market exploration, business model development, and pitching.
 
-The hardware imagery represents proposed industrial design, the website is an interactive concept prototype, and the commercial illustrates the intended user experience.
+We explored not just what a phone-storage product could look like, but why people would use it and how the experience could encourage repeat participation.
 
-The project demonstrates an approach to combining physical design, behavioral thinking, digital prototyping, and entrepreneurship.
+The project received the **Best Project Award** at the end of the program.
+
+## My Contribution and Continued Development
+
+My involvement covered technical concept exploration, product visualization, market research, and the preparation of the project pitch and presentation alongside the team.
+
+After the summer school, I independently continued developing the concept into a more tangible portfolio demonstration.
+
+This included:
+
+- Iteratively creating and refining the interactive website prototype through AI-assisted development.
+- Exploring the session experience, group incentives, activity suggestions, and conceptual rewards.
+- Refining the interface and visual presentation to better communicate the product.
+- Producing an AI-assisted video commercial through visual references, prompt iteration, and evaluation of generated footage.
+- Bringing the hardware concept, digital prototype, and project documentation together in one GitHub repository.
+
+The purpose of this continued work was to make an entrepreneurship idea easier to experience and evaluate, not to present it as a fully developed commercial product.
 
 ---
 
-*RECLAIM — Put it down. Pick life up.*
+## What I Took Away
+
+RECLAIM taught me that developing an idea is not only about identifying an interesting problem.
+
+It is also about finding a way to translate that problem into a product experience people can understand.
+
+For this project, the challenge was connecting several different elements: physical product design, behavioral motivation, social participation, digital interaction, and a possible business model.
+
+Continuing to develop the interactive prototype and commercial after the program also gave me an opportunity to experiment with AI-assisted prototyping and visual storytelling.
+
+One of the biggest lessons was that **a concept becomes much easier to communicate when people can see and interact with it**, rather than only reading about it on a slide.
+
+---
+
+## Project Status
+
+**Concept development and interactive prototyping.**
+
+RECLAIM is an entrepreneurship concept, not a commercially available product.
+
+The hardware visuals are design proposals, the companion website is a simulation, and the commercial is AI-generated concept footage. Reward partnerships and business features are illustrative.
+
+The repository is intended to document the idea, our entrepreneurship process, and the subsequent exploration of the digital experience.
+
+---
+
+**RECLAIM — Put it down. Pick life up.**
