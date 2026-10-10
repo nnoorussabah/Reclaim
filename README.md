@@ -80,7 +80,7 @@ The prototype includes:
 
 The prototype was created as a design and exploration tool, not as a production-ready application connected to manufactured hardware.
 
-**[Launch the RECLAIM Interactive Prototype](./index.html)**
+**[Launch the RECLAIM Interactive Prototype](https://nnoorussabah.github.io/Reclaim/)**
 
 *A live GitHub Pages link will be added here once the prototype is published.*
 
