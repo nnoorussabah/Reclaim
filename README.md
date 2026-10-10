@@ -88,7 +88,7 @@ The prototype was created as a design and exploration tool, not as a production-
 
 ## The Product Design
 
-![RECLAIM Hardware Concept](reclaim-product-design.jpg)
+![RECLAIM Hardware Concept](reclaim-product-design.jpeg)
 
 The proposed physical product was designed to be compact, minimal, and easy to incorporate into everyday life.
 
