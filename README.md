@@ -3,7 +3,7 @@
 
 **An award-winning entrepreneurship concept exploring how physical design and technology can encourage more meaningful time away from our screens.**
 
-![RECLAIM Product Design](reclaim-product-design.jpg)
+![RECLAIM Product Design](reclaim-product-design.jpeg)
 
 **RECLAIM** was developed as a team project during the **KTUR Entrepreneurship Summer School 2026**, where it received the **Best Project Award**.
 
