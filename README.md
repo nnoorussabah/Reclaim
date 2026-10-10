@@ -82,7 +82,6 @@ The prototype was created as a design and exploration tool, not as a production-
 
 **[Launch the RECLAIM Interactive Prototype](https://nnoorussabah.github.io/Reclaim/)**
 
-*A live GitHub Pages link will be added here once the prototype is published.*
 
 ---
 
